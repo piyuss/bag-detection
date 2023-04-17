@@ -1,0 +1,10 @@
+train: custom_dataset/images/train/  
+val: custom_dataset/images/val/ 
+
+
+# number of classes
+nc: 1
+
+
+# class names
+names: {0: 'bag'}
